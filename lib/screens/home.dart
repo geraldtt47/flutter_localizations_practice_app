@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
               const SizedBox(height: 24.0,),
               LanguageButton(
                 text: 'home_btn_text'.tr(), 
-                onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => Languages())),
+                onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => const Languages())),
               ),
             ],
           ),
