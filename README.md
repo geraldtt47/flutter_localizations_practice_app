@@ -15,7 +15,7 @@ We used the following services for this project:
 2. [Locale Code](https://saimana.com/list-of-country-locale-code/) - Used to find locale code, however you can basically google locale codes
 
 ## How to update and add more content 
-Inorder to update content you have have to update files inside assets/translations/
+Inorder to update content you have to update files inside assets/translations/
 1. Create a key and provide its value e.g "title": "Localized App" in en-US.json
 2. Use same key and provide a translated value e.g "title": "Gelokaliseerde App" in af-ZA.json
 
