@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-1.0.3-blue)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![build](https://img.shields.io/badge/build-passing-green)
 ![style](https://img.shields.io/badge/style-non_chalant_drip-yellow)
 ![community](https://img.shields.io/badge/community-foenem-red)
