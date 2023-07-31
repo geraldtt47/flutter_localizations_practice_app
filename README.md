@@ -13,6 +13,7 @@ This is a Flutter app that is localized to use English and Afrikaans using Easy 
 We used the following services for this project:
 1. [Google Translate](https://translate.google.com/) - Used to translate English to Afrikaans
 2. [Locale Code](https://saimana.com/list-of-country-locale-code/) - Used to find locale code, however you can basically google locale codes
+3. [Locale Codes Alternative](http://www.lingoes.net/en/translator/langcode.htm) - Alternative locale codes that you can use
 
 ## How to update and add more content 
 Inorder to update content you have to update files inside assets/translations/
