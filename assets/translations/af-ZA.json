@@ -1,0 +1,7 @@
+{
+  "home_description": "Dit is baie maklik om tussen tale in Flutter te wissel deur die Easy Localization-biblioteek te gebruik.",
+  "home_btn_text": "Verander taal",
+  "languages_description": "Kies 'n taal. Die veranderinge sal outomaties op al die tekslegstukke met die .tr-uitbreiding regdeur die toepassing toegepas word.",
+  "languages_btn_english": "Engels",
+  "languages_btn_afrikaans": "Afrikaans"
+}
