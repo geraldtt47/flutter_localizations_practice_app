@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import '../includes.dart';
 import '../packages.dart';
 
-class Home extends StatelessWidget {
-  const Home({super.key});
+class LanguageHomeScreen extends StatelessWidget {
+  const LanguageHomeScreen({super.key});
 
   
 
@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
               const SizedBox(height: 24.0,),
               LanguageButton(
                 text: 'home_btn_text'.tr(), 
-                onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => const Languages())),
+                onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => const ChangeLanguageScreen())),
               ),
             ],
           ),
