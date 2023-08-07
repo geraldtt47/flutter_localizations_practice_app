@@ -28,7 +28,7 @@ class LanguageHomeScreen extends StatelessWidget {
               const SizedBox(height: 24.0,),
               LanguageButton(
                 text: 'home_btn_text'.tr(), 
-                onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => const ChangeLanguageScreen())),
+                onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => const AppLanguageScreen())),
               ),
             ],
           ),

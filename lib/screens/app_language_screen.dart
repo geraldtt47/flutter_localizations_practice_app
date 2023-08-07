@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import '../includes.dart';
 import '../packages.dart';
 
-class ChangeLanguageScreen extends StatelessWidget {
-  const ChangeLanguageScreen({super.key});
+class AppLanguageScreen extends StatelessWidget {
+  const AppLanguageScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
