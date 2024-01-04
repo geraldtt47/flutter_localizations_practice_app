@@ -30,7 +30,7 @@ TextTheme? textTheme() {
 AppBarTheme? appBarTheme() {
   return const AppBarTheme(
     centerTitle: true,
-    systemOverlayStyle: SystemUiOverlayStyle.dark,
+    systemOverlayStyle: SystemUiOverlayStyle.light,
     titleTextStyle: TextStyle(fontSize: 16.0, fontWeight: FontWeight.normal),
     color: AppThemeColors.primaryColor,
   );

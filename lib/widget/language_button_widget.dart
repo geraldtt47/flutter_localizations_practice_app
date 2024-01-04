@@ -20,7 +20,7 @@ class LanguageButton extends StatelessWidget {
       width: 240,
       child: TextButton(
         style: TextButton.styleFrom(
-          foregroundColor: Colors.deepOrange, padding: const EdgeInsets.all(16),
+          foregroundColor: Colors.white, padding: const EdgeInsets.all(16),
           elevation: 8,
           backgroundColor: color ?? AppThemeColors.primaryColor,
           shape: const RoundedRectangleBorder(
