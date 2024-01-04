@@ -38,6 +38,11 @@ dependencies:
   easy_localization: ^3.0.2
   provider: ^6.0.5
 
+
+  # Package to rename app name
+  # Run this command to change app name: flutter pub run rename_app:main all="My New App Name"
+  rename_app:
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
