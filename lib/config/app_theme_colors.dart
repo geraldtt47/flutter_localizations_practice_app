@@ -16,18 +16,18 @@ class AppThemeColors {
 }
 
 MaterialColor kAppPrimarySwatchColor = const MaterialColor(
-  0xFF19AF82,
+  0xFF253F4B,
   <int, Color>{
-    50: Color(0xFF19AF82), //This could be a different shade of color
-    100: Color(0xFF19AF82),
-    200: Color(0xFF19AF82),
-    300: Color(0xFF19AF82),
-    400: Color(0xFF19AF82),
-    500: Color(0xFF19AF82),
-    600: Color(0xFF19AF82),
-    700: Color(0xFF19AF82),
-    800: Color(0xFF19AF82),
-    900: Color(0xFF19AF82),
+    50: Color(0xFF253F4B), //This could be a different shade of color
+    100: Color(0xFF253F4B),
+    200: Color(0xFF253F4B),
+    300: Color(0xFF253F4B),
+    400: Color(0xFF253F4B),
+    500: Color(0xFF253F4B),
+    600: Color(0xFF253F4B),
+    700: Color(0xFF253F4B),
+    800: Color(0xFF253F4B),
+    900: Color(0xFF253F4B),
   },
 );
 

@@ -32,7 +32,10 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Flutter Demo',
         theme: ThemeData(
-          primarySwatch: Colors.blueGrey,
+          textTheme: textTheme(),
+          appBarTheme: appBarTheme(),
+          inputDecorationTheme: inputDecorationTheme(),
+          primarySwatch: kAppPrimarySwatchColor,
         ),
         home: const LanguageHomeScreen(),
       ),

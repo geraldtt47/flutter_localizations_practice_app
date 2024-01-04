@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../includes.dart';
 
 class LanguageButton extends StatelessWidget {
   final String text;
@@ -21,7 +22,7 @@ class LanguageButton extends StatelessWidget {
         style: TextButton.styleFrom(
           foregroundColor: Colors.deepOrange, padding: const EdgeInsets.all(16),
           elevation: 8,
-          backgroundColor: color ?? Colors.blue,
+          backgroundColor: color ?? AppThemeColors.primaryColor,
           shape: const RoundedRectangleBorder(
             borderRadius: BorderRadius.all(Radius.circular(10)),
           ),
