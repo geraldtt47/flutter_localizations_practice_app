@@ -29,10 +29,12 @@ Inorder to update content you have to update files inside assets/translations/
 <img src="https://github.com/geraldtt47/flutter_localizations_practice_app/assets/101138882/12d72d7d-15fc-4671-82c4-05cd7ff4c29b" width="200" />
 
 ## App Screenshots from Folder
+<div>
 <img src="screenshots/1.png" width="200" />
 <img src="screenshots/2.png" width="200" />
 <img src="screenshots/3.png" width="200" />
 <img src="screenshots/4.png" width="200" />
+</div>
 
 Happy Coding!
  
