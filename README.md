@@ -23,12 +23,6 @@ Inorder to update content you have to update files inside assets/translations/
 2. Use same key and provide a translated value e.g "title": "Gelokaliseerde App" in af-ZA.json
 
 ## App Screenshots
-<img src="https://github.com/geraldtt47/flutter_localizations_practice_app/assets/101138882/7322ed1b-4cc9-478b-8313-a752a676971e" width="200" />
-<img src="https://github.com/geraldtt47/flutter_localizations_practice_app/assets/101138882/86811642-593c-41bb-9188-3cc4ac712382" width="200" />
-<img src="https://github.com/geraldtt47/flutter_localizations_practice_app/assets/101138882/29bec2aa-cc10-45a6-b0f0-bb38db8ed242" width="200" />
-<img src="https://github.com/geraldtt47/flutter_localizations_practice_app/assets/101138882/12d72d7d-15fc-4671-82c4-05cd7ff4c29b" width="200" />
-
-## App Screenshots from Folder
 <div>
 <img src="screenshots/1.png" width="200" />
 <img src="screenshots/2.png" width="200" />
